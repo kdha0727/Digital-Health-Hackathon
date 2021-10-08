@@ -1,0 +1,14 @@
+torch==1.8.0
+torchvision==0.9.0
+matplotlib~=3.4.3
+dataframe-image==0.1.1
+numpy~=1.21.2
+requests==2.26.0
+pandas~=1.3.2
+scikit-learn~=0.24.2
+seaborn
+networkx~=2.6.2
+torchinfo~=1.5.3
+scipy
+salib
+tabulate~=0.8.9  # for pandas.DataFrame.to_markdown()
